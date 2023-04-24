@@ -1,0 +1,24 @@
+//chinwendu 
+//april 24, 2023
+// conversion assignment
+import java.util.scanner;
+
+public class Main {
+    import java.util.scanner; // scanner class
+
+    publice
+
+    class Main {//controls my class and remains untouched}
+        static scanner input = new scanner(System.in);
+
+        public static void Main(String[] args)
+    }
+
+    int fahrenheit;
+    double celcius;
+//my values used
+System.out.println("please enter the temperture");
+    fahrenheit =input.nextInt();
+    celcius =(fahrenheit-32)*(5.0/9.0);
+system.out.println("Your tempeture converted is"+celcius);
+}
